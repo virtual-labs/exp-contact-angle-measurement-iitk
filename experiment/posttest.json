@@ -36,27 +36,27 @@
       
     },
     {
-      "question": "The sample stage should be __________ for measuring the contact angle:",
+      "question": "Which of the following can not affect the contact angle:",
       "answers": {
-        "a": "Kept vertical",
-        "b": "Kept inclined at 450",
-        "c": "Kept horizontal",
-        "d": "Kept inverted"
+        "a": "Chemistry of the material",
+        "b": "Roughness of the material",
+        "c": "Density of the Material",
+        "d": "Surface Energy of the material"
       },
       
       "correctAnswer": "c"
       
     },
     {
-      "question": "Contact angle is measured by capturing the image of droplet on the substrate using:",
+      "question": "Assuming that ultra high molecular weight polyethylene (UHMWPE) has neutral contact angle, then addition of carbon nanotubes (with lower surface energy) in UHMWPE matrix will tend to:",
       "answers": {
-        "a": "The roughness of the substrate",
-        "b": "The height of the droplet",
-        "c": "The circumference of the droplet",
-        "d": "The shape of the droplet"
+        "a": "Recover the lower surface energy",
+        "b": "Increase the contact angle",
+        "c": "Retain the same contact angle",
+        "d": "Decrease the contact angle"
       },
       
-      "correctAnswer": "d"
+      "correctAnswer": "b"
       
     }
   ]
