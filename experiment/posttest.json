@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In superhydrophobic surface, the water bead on the substrate will:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Spread completely",
+        "b": "Spread partially",
+        "c": "Bead-up",
+        "d": "Highly bead-up"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Wetting can be quantified using contact angle " _____________":",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diffractometer",
+        "b": "Goniometer",
+        "c": "Spectrometer",
+        "d": "Pyrometer"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "When a liquid has a very high surface energy, it will tend to be",
+      "answers": {
+        "a": "Superhydrophobic",
+        "b": "Neutral",
+        "c": "Hydrophobic",
+        "d": "Hydrophilic"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "Which of the following can not affect the contact angle:",
+      "answers": {
+        "a": "Chemistry of the material",
+        "b": "Roughness of the material",
+        "c": "Density of the Material",
+        "d": "Surface Energy of the material"
+      },
+      
+      "correctAnswer": "c"
+      
+    },
+    {
+      "question": "Assuming that ultra high molecular weight polyethylene (UHMWPE) has neutral contact angle, then addition of carbon nanotubes (with lower surface energy) in UHMWPE matrix will tend to:",
+      "answers": {
+        "a": "Recover the lower surface energy",
+        "b": "Increase the contact angle",
+        "c": "Retain the same contact angle",
+        "d": "Decrease the contact angle"
+      },
+      
+      "correctAnswer": "b"
+      
     }
   ]
 }
