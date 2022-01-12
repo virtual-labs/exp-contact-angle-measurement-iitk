@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.What is the condition of wetting in the figure<img src='images/pic1.jpg'>",
+      "question": "1.What is the condition of wetting in the figure<img src='images/q1.jpg'>",
       "answers": {
         "a": "Hydrophilic",
         "b": "Neutral",
