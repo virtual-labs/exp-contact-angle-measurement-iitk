@@ -17,7 +17,7 @@ Surface can be classified on the basis of contact angle(CA;θc).<br>
 1) Materials with lowest surface energy; CA ~ 120<sup>o</sup> is obtained.<br>
 2) Thus, for hydrophobic surfaces, an increased surface roughnes enhance the CA.<br>
 3) therefore, Superhydrophobicity is the combination of surface chemistry (hydrophobicity) and structure (roughness).<br><br>
-<img src="images/picture2.jpg"><br><br>
+<img src="images/hydro.PNG"><br><br>
 <b>Various contact angle Measuring Methods:</b><br>
 1) Static sessile drop method (contact angle)<br>
 2) Dynamic sessile drop method (contact hysteresis)<br>
