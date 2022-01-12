@@ -12,7 +12,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "2.From the Young's Equation below (and schematic shown below), deduce the what is θc terms:",
+      "question": "2.From the Young's Equation below (and schematic shown below), deduce that what is θc terms:<img src='images/youngmodel.jpg'>",
       "answers": {
         "a": "Coverage fraction",
         "b": "Ratio of hydrophobic to hydrophilic component",
