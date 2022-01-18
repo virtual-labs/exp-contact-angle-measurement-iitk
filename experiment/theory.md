@@ -1,6 +1,6 @@
 <b>Contact Angle</b><br><br>
 When we rest a small droplet on the solid surface, liquid vapor interface forms contact angle with the solid surface or tangential outline of the droplet on the solid forms the contact angle. It is a quantitative measure of the wetting of a solid by a liquid, surface tension, cleanliness and adhesion.Hydrophobicity and hydrophilicity characters of the surface can also be determined. Contact angle hysteresis is used to characterize the roughnes, mobility and heterogenity.Contact angle hysteresis is the difference between maximum contact angle and minimum contact angle values. Since thermodynamics of materials is considered in terms of measuring contact angle, the analysis is based on the interfacial free energies between the three faces.<br><br>
-<a href="https://youtu.be/D7Zu1-9kSUg">NPTEL Link</a><br><br>
+<a href="https://youtu.be/D7Zu1-9kSUg" target=_blank>NPTEL Lecture Link</a><br><br>
 <div style="float:left;width:55%;border: solid 1 px black;"><img src="images/youngmodel.jpg"></div>
  <div style="float:left;width:40%;border: solid 1 px black;"><video width="500" height="240" controls>
   <source src="images/wfm.mp4" type="video/mp4">
