@@ -1,1 +1,1 @@
-### Aim of the experiment
+### To evaluate the contact angle measurement of materials using Wetting.

@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the condition of wetting in the figure<img src='images/q1.jpg'>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hydrophilic",
+        "b": "Neutral",
+        "c": "Hydrophobic",
+        "d": "Superhydrophobic"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. From the Young's Equation below (and schematic shown below), deduce that what is θc terms:<img src='images/youngmodel.jpg'>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Coverage fraction",
+        "b": "Ratio of hydrophobic to hydrophilic component",
+        "c": "Contact Angle",
+        "d": "Circumference of contact"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c"
+      
+    },
+    {
+      "question": "3. The amount of water controlled while dropping it on a substrate using",
+      "answers": {
+        "a": "Beaker",
+        "b": "Test-tube",
+        "c": "Dropper",
+        "d": "Syringe"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "4. The sample stage should be __________ for measuring the contact angle:",
+      "answers": {
+        "a": "Kept vertical",
+        "b": "Kept inclined at 450",
+        "c": "Kept horizontal",
+        "d": "Kept inverted"
+      },
+      
+      "correctAnswer": "c"
+      
+    },
+    {
+      "question": "5. Contact angle is measured by capturing the image of droplet on the substrate using:",
+      "answers": {
+        "a": "The roughness of the substrate",
+        "b": "The height of the droplet",
+        "c": "The circumference of the droplet",
+        "d": "The shape of the droplet"
+      },
+      
+      "correctAnswer": "d"
+      
     }
   ]
 }
